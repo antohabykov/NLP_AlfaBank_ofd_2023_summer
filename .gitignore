@@ -1,1 +1,3 @@
 train_unsupervised_dataset.csv
+fasttext.model.wv.vectors_ngrams.npy
+fasttext.model
